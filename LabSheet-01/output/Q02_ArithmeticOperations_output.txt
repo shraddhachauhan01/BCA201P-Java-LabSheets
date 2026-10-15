@@ -1,0 +1,7 @@
+Enter first number: 15
+Enter second number: 4
+Addition       : 19
+Subtraction    : 11
+Multiplication : 60
+Division       : 3
+Modulus        : 3

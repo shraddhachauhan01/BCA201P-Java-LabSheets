@@ -1,0 +1,4 @@
+The jagged array is:
+Row 0 (length 2): 1 2 
+Row 1 (length 4): 3 4 5 6 
+Row 2 (length 3): 7 8 9 

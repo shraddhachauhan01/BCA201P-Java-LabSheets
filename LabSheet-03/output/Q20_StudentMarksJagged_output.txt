@@ -1,0 +1,18 @@
+Enter number of students: 3
+Enter number of subjects taken by student 1: 3
+  Enter marks of subject 1: 85
+  Enter marks of subject 2: 90
+  Enter marks of subject 3: 78
+Enter number of subjects taken by student 2: 2
+  Enter marks of subject 1: 70
+  Enter marks of subject 2: 65
+Enter number of subjects taken by student 3: 4
+  Enter marks of subject 1: 88
+  Enter marks of subject 2: 92
+  Enter marks of subject 3: 81
+  Enter marks of subject 4: 76
+
+Marks of all students:
+Student 1 (3 subjects): 85 90 78 
+Student 2 (2 subjects): 70 65 
+Student 3 (4 subjects): 88 92 81 76 

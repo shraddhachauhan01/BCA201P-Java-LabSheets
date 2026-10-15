@@ -1,0 +1,8 @@
+Enter rainfall for day 1 (in mm): 5.5
+Enter rainfall for day 2 (in mm): 0
+Enter rainfall for day 3 (in mm): 12.2
+Enter rainfall for day 4 (in mm): 8
+Enter rainfall for day 5 (in mm): 3.5
+Enter rainfall for day 6 (in mm): 0
+Enter rainfall for day 7 (in mm): 10
+Total rainfall in 7 days = 39.2 mm

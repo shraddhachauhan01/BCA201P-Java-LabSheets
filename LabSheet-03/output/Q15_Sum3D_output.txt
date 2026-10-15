@@ -1,0 +1,9 @@
+Enter element [0][0][0]: 1
+Enter element [0][0][1]: 2
+Enter element [0][1][0]: 3
+Enter element [0][1][1]: 4
+Enter element [1][0][0]: 5
+Enter element [1][0][1]: 6
+Enter element [1][1][0]: 7
+Enter element [1][1][1]: 8
+Sum of all elements = 36

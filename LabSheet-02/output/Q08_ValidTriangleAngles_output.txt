@@ -1,0 +1,4 @@
+Enter first angle: 60
+Enter second angle: 60
+Enter third angle: 60
+The angles form a valid triangle.

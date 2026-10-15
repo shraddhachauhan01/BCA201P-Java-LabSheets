@@ -1,0 +1,4 @@
+Enter first number: 25
+Enter second number: 40
+Before swapping: a = 25, b = 40
+After swapping : a = 40, b = 25

@@ -1,0 +1,15 @@
+Enter number of rows: 2
+Enter number of columns: 2
+Enter elements of the first matrix:
+Element [0][0]: 1
+Element [0][1]: 2
+Element [1][0]: 3
+Element [1][1]: 4
+Enter elements of the second matrix:
+Element [0][0]: 5
+Element [0][1]: 6
+Element [1][0]: 7
+Element [1][1]: 8
+Sum of the two matrices:
+6	8	
+10	12	

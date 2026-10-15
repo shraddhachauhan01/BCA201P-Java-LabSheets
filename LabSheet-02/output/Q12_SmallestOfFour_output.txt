@@ -1,0 +1,6 @@
+Enter first number: 42
+Enter second number: 17
+Enter third number: 63
+Enter fourth number: 25
+The smallest number is 17
+Using one nested ternary: 17

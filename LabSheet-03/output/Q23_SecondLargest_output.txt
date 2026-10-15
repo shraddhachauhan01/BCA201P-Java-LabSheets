@@ -1,0 +1,9 @@
+Enter the number of elements: 6
+Enter element 1: 12
+Enter element 2: 45
+Enter element 3: 7
+Enter element 4: 45
+Enter element 5: 30
+Enter element 6: 18
+Largest element        = 45
+Second largest element = 30

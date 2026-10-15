@@ -1,0 +1,3 @@
+Enter first string: apple
+Enter second string: banana
+"apple" comes before "banana" in dictionary order.

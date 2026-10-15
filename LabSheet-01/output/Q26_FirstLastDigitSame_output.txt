@@ -1,0 +1,4 @@
+Enter a five-digit number: 12321
+First digit : 1
+Last digit  : 1
+The first and last digits are the same.

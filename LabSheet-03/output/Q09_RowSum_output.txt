@@ -1,0 +1,14 @@
+Enter number of rows: 3
+Enter number of columns: 3
+Enter element [0][0]: 1
+Enter element [0][1]: 2
+Enter element [0][2]: 3
+Enter element [1][0]: 4
+Enter element [1][1]: 5
+Enter element [1][2]: 6
+Enter element [2][0]: 7
+Enter element [2][1]: 8
+Enter element [2][2]: 9
+Sum of row 1 = 6
+Sum of row 2 = 15
+Sum of row 3 = 24

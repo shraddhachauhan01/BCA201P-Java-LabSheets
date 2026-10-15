@@ -1,0 +1,4 @@
+Enter theory percentage: 45
+Enter practical percentage: 55
+Enter overall percentage: 48
+Result: Pass

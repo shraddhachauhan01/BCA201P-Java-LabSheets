@@ -1,0 +1,5 @@
+Enter principal amount: 10000
+Enter rate of interest (% per year): 5
+Enter time (in years): 2
+Total amount      : 11025.0
+Compound interest : 1025.0

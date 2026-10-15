@@ -1,0 +1,4 @@
+Enter first integer: 5
+Enter second integer: 0
+Enter logical operator (&, |, !): |
+true OR false = true

@@ -1,0 +1,8 @@
+Enter a positive number: 20
+Starting value: 20.0
+Step 1: 10.0
+Step 2: 5.0
+Step 3: 2.5
+Step 4: 1.25
+Step 5: 0.625
+The number became less than 1 after 5 steps.

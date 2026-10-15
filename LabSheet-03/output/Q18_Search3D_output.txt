@@ -1,0 +1,10 @@
+Enter element [0][0][0]: 10
+Enter element [0][0][1]: 20
+Enter element [0][1][0]: 30
+Enter element [0][1][1]: 40
+Enter element [1][0][0]: 50
+Enter element [1][0][1]: 60
+Enter element [1][1][0]: 70
+Enter element [1][1][1]: 80
+Enter the element to search: 50
+50 found at position [1][0][0]

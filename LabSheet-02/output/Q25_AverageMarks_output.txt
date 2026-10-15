@@ -1,0 +1,17 @@
+Enter number of students: 3
+Enter number of subjects: 3
+Enter marks of student 1:
+  Subject 1: 75
+  Subject 2: 80
+  Subject 3: 90
+Enter marks of student 2:
+  Subject 1: 60
+  Subject 2: 70
+  Subject 3: 85
+Enter marks of student 3:
+  Subject 1: 92
+  Subject 2: 88
+  Subject 3: 79
+Student 1 -> Total: 245, Average: 81.66666666666667
+Student 2 -> Total: 215, Average: 71.66666666666667
+Student 3 -> Total: 259, Average: 86.33333333333333

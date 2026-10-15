@@ -1,0 +1,4 @@
+Enter the start year of the range: 2000
+Enter the end year of the range: 2030
+Enter the year to check: 2024
+2024 is a leap year and lies within 2000 to 2030.

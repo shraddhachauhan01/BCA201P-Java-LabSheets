@@ -1,0 +1,3 @@
+Enter an integer: 29
+Binary form: 11101
+Number of set bits (1s): 4

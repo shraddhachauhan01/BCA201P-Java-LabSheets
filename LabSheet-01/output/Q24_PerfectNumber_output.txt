@@ -1,0 +1,2 @@
+Enter a number: 28
+28 is a perfect number.

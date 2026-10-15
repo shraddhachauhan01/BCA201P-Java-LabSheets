@@ -1,0 +1,8 @@
+Enter first number: 10
+Enter second number: 25
+10 == 25 : false
+10 != 25 : true
+10 >  25 : false
+10 <  25 : true
+10 >= 25 : false
+10 <= 25 : true

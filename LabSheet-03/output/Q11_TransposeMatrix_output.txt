@@ -1,0 +1,15 @@
+Enter number of rows: 2
+Enter number of columns: 3
+Enter element [0][0]: 1
+Enter element [0][1]: 2
+Enter element [0][2]: 3
+Enter element [1][0]: 4
+Enter element [1][1]: 5
+Enter element [1][2]: 6
+Original matrix:
+1	2	3	
+4	5	6	
+Transposed matrix:
+1	4	
+2	5	
+3	6	

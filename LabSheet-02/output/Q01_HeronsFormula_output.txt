@@ -1,0 +1,5 @@
+Enter side a: 3
+Enter side b: 4
+Enter side c: 5
+Semi-perimeter : 6.0
+Area of triangle : 6.0

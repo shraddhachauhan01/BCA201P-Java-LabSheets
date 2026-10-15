@@ -1,0 +1,8 @@
+Enter the number of elements: 6
+Enter element 1: 34
+Enter element 2: 78
+Enter element 3: 12
+Enter element 4: 90
+Enter element 5: 45
+Enter element 6: 23
+Maximum element = 90

@@ -1,0 +1,2 @@
+Enter height in cm: 165
+The person has average height.

@@ -1,0 +1,19 @@
+Store opens. Visitors inside: 0
+
+Visitor enters (postfix count++)
+Value shown by count++ : 0
+Visitors inside now    : 1
+
+Visitor enters (prefix ++count)
+Value shown by ++count : 2
+Visitors inside now    : 2
+
+Another visitor enters. Visitors inside: 3
+
+Visitor leaves (postfix count--)
+Value shown by count-- : 3
+Visitors inside now    : 2
+
+Visitor leaves (prefix --count)
+Value shown by --count : 1
+Visitors inside now    : 1

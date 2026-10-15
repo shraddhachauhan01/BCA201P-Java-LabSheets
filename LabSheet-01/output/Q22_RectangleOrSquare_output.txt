@@ -1,0 +1,3 @@
+Enter length: 8
+Enter breadth: 8
+The shape is a square.

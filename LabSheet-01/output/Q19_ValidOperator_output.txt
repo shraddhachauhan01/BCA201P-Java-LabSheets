@@ -1,0 +1,4 @@
+Enter an operator (+, -, *, /): *
+Enter first number: 6
+Enter second number: 7
+6.0 * 7.0 = 42.0

@@ -1,0 +1,2 @@
+Enter a character: g
+g is a lowercase letter.

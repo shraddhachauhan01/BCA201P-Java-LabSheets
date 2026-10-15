@@ -1,0 +1,24 @@
+Enter elements of the first 3 x 3 matrix:
+Element [0][0]: 1
+Element [0][1]: 2
+Element [0][2]: 3
+Element [1][0]: 4
+Element [1][1]: 5
+Element [1][2]: 6
+Element [2][0]: 7
+Element [2][1]: 8
+Element [2][2]: 9
+Enter elements of the second 3 x 3 matrix:
+Element [0][0]: 9
+Element [0][1]: 8
+Element [0][2]: 7
+Element [1][0]: 6
+Element [1][1]: 5
+Element [1][2]: 4
+Element [2][0]: 3
+Element [2][1]: 2
+Element [2][2]: 1
+Product of the two matrices:
+30	24	18	
+84	69	54	
+138	114	90	

@@ -1,0 +1,10 @@
+Jagged array before sorting:
+Row 0: 9 3 7 
+Row 1: 15 2 8 1 6 
+Row 2: 20 10 
+Row 3: 4 12 5 3 
+Jagged array after sorting each row:
+Row 0: 3 7 9 
+Row 1: 1 2 6 8 15 
+Row 2: 10 20 
+Row 3: 3 4 5 12 

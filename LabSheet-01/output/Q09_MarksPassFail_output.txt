@@ -1,0 +1,6 @@
+Enter marks of subject 1 (out of 100): 78
+Enter marks of subject 2 (out of 100): 65
+Enter marks of subject 3 (out of 100): 82
+Total marks : 225 / 300
+Percentage  : 75.0%
+Result      : Pass

@@ -1,0 +1,5 @@
+Enter x1: 1
+Enter y1: 2
+Enter x2: 4
+Enter y2: 6
+Distance between the points = 5.0
