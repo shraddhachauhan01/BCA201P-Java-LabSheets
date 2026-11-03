@@ -1,3 +1,0 @@
-Enter an integer: 12321
-Reverse of the number: 12321
-12321 is a palindrome.

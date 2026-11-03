@@ -1,4 +1,0 @@
-Enter first number: 20
-Enter operator (+, -, *, /): /
-Enter second number: 4
-Result: 5.0

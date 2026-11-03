@@ -1,2 +1,0 @@
-Enter a number: -8
--8.0 is negative.

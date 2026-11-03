@@ -1,2 +1,0 @@
-Enter a number: 45872
-Number of digits: 5

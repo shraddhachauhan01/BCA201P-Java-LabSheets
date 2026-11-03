@@ -1,3 +1,0 @@
-Enter age: 22
-Enter gender (M/F): M
-Eligible for marriage.

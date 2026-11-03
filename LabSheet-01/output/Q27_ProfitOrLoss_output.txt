@@ -1,3 +1,0 @@
-Enter cost price: 500
-Enter selling price: 650
-Profit of 150.0

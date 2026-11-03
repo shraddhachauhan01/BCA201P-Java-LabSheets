@@ -1,2 +1,0 @@
-Enter a character: A
-ASCII value of 'A' is 65

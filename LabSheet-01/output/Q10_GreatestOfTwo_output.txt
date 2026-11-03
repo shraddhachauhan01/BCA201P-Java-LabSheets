@@ -1,3 +1,0 @@
-Enter first number: 34
-Enter second number: 58
-58 is the greatest.

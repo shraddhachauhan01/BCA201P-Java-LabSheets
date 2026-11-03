@@ -1,2 +1,0 @@
-Enter temperature in Celsius: 37
-37 C = 98.6 F

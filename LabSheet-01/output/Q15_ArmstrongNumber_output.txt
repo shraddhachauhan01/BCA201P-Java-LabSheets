@@ -1,2 +1,0 @@
-Enter a 3-digit number: 153
-153 is an Armstrong number.

@@ -1,3 +1,0 @@
-Enter a decimal number: 7.89
-Original value  : 7.89
-Converted value : 7
