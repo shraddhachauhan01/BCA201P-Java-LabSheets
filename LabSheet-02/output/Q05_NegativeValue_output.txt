@@ -1,3 +1,0 @@
-Enter an integer: 25
-Original number : 25
-Negative value  : -25
